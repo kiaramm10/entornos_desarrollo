@@ -10,6 +10,7 @@ public class Ejemplo2 {
 				System.out.println("Hola");
 			}
 		}
+		System.out.println("Hola, esto es un cambio");
 	}
 
 }
